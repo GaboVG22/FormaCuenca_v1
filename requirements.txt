@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+matplotlib
+requests
+rasterio
+shapely
+pyproj
+simplekml
+pysheds
+earthengine-api
